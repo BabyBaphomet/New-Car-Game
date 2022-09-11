@@ -2,7 +2,7 @@ import pygame, random, time, sys
 from pygame import mixer
 from pygame.locals import *
 from random import randrange
-
+#yeet
 pygame.init()
 mixer.init()
 mainClock = pygame.time.Clock()
